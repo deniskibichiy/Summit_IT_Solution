@@ -131,6 +131,14 @@ width: 50px;
     font-weight: 800;
 }
 
+.header ul li a:active{
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: var(--color-2);
+    font-weight: 800;
+}
+
 /* Dropdown menu for Services and Partner*/
 
  .dropdown:hover .dropdown-menu{
